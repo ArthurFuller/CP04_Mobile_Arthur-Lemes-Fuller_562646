@@ -1,0 +1,14 @@
+Table,Key,pt-BR,en,es,fr
+MainMenu,GAME_TITLE,NEXUS HORIZON,NEXUS HORIZON,NEXUS HORIZON,NEXUS HORIZON
+MainMenu,SUBTITLE,Uma jornada começa aqui,A journey begins here,Un viaje comienza aquí,Un voyage commence ici
+MainMenu,WELCOME,"Bem-vindo, aventureiro","Welcome, adventurer","Bienvenido, aventurero","Bienvenue, aventurier"
+MainMenu,NEW_GAME,Novo Jogo,New Game,Nueva Partida,Nouvelle Partie
+MainMenu,CONTINUE,Continuar,Continue,Continuar,Continuer
+MainMenu,SETTINGS,Configurações,Settings,Configuración,Paramètres
+MainMenu,CREDITS,Créditos,Credits,Créditos,Crédits
+MainMenu,QUIT,Sair,Quit,Salir,Quitter
+Settings,SETTINGS_TITLE,Configurações,Settings,Configuración,Paramètres
+Settings,LANGUAGE,Idioma,Language,Idioma,Langue
+Settings,MUSIC_VOLUME,Volume da Música,Music Volume,Volumen de Música,Volume de la musique
+Settings,FULLSCREEN,Tela Cheia,Fullscreen,Pantalla Completa,Plein écran
+Settings,BACK,Voltar,Back,Volver,Retour
